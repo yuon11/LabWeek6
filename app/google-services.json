@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "797283637233",
+    "firebase_url": "https://labweek6-79c71-default-rtdb.firebaseio.com",
+    "project_id": "labweek6-79c71",
+    "storage_bucket": "labweek6-79c71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797283637233:android:3f80a14b8391f3976e5650",
+        "android_client_info": {
+          "package_name": "com.example.labweek6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797283637233-69ms4j5jsku876595ctgp6m0tfot608g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnZkG6_hLxv1UhWrv_GLEmPjkCVHsucs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797283637233-69ms4j5jsku876595ctgp6m0tfot608g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

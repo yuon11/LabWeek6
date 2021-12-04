@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Yuon/AndroidStudioProjects/LabWeek6/app/src/main/res/drawable-anydpi/fb_icon.xml" value="0.17592592592592593" />
+        <entry key="..\:/Users/Yuon/AndroidStudioProjects/LabWeek6/app/src/main/res/drawable/ic_launcher_background.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/Yuon/AndroidStudioProjects/LabWeek6/app/src/main/res/drawable/login_button.xml" value="0.17592592592592593" />
+        <entry key="..\:/Users/Yuon/AndroidStudioProjects/LabWeek6/app/src/main/res/drawable/signup_button.xml" value="0.17592592592592593" />
+        <entry key="..\:/Users/Yuon/AndroidStudioProjects/LabWeek6/app/src/main/res/layout/activity_chat.xml" value="0.375" />
+        <entry key="..\:/Users/Yuon/AndroidStudioProjects/LabWeek6/app/src/main/res/layout/activity_edit_profile.xml" value="0.10866261398176291" />
+        <entry key="..\:/Users/Yuon/AndroidStudioProjects/LabWeek6/app/src/main/res/layout/activity_home.xml" value="0.10866261398176291" />
+        <entry key="..\:/Users/Yuon/AndroidStudioProjects/LabWeek6/app/src/main/res/layout/activity_main.xml" value="0.10866261398176291" />
+        <entry key="..\:/Users/Yuon/AndroidStudioProjects/LabWeek6/app/src/main/res/layout/activity_messaging.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/Yuon/AndroidStudioProjects/LabWeek6/app/src/main/res/layout/activity_photo_preview.xml" value="0.10866261398176291" />
+        <entry key="..\:/Users/Yuon/AndroidStudioProjects/LabWeek6/app/src/main/res/layout/activity_signup_login.xml" value="0.10866261398176291" />
+        <entry key="..\:/Users/Yuon/AndroidStudioProjects/LabWeek6/app/src/main/res/layout/card_view.xml" value="0.33" />
+        <entry key="..\:/Users/Yuon/AndroidStudioProjects/LabWeek6/app/src/main/res/layout/message_card_view.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/Yuon/AndroidStudioProjects/LabWeek6/app/src/main/res/menu/actionbar_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Yuon/AndroidStudioProjects/LabWeek6/app/src/main/res/menu/extras_menu.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/Yuon/AndroidStudioProjects/LabWeek6/app/src/main/res/menu/popup.xml" value="0.17962962962962964" />
+        <entry key="..\:/Users/Yuon/AndroidStudioProjects/LabWeek6/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.23958333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
